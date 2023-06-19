@@ -1,0 +1,26 @@
+,Stocks_Symbol,Stocks_Name,Stocks_Price,Stocks_Price_Change,Stocks_Percent_Change,Stocks_Volume,Stocks_Market_Capital
+0,TSLA,"Tesla, Inc.",260.54,+4.64,+1.81%,167.916M,825.782B
+1,INTC,Intel Corporation,36.37,+0.55,+1.54%,110.24M,151.699B
+2,SOFI,"SoFi Technologies, Inc.",8.60,-0.95,-9.95%,107.557M,8.092B
+3,AAPL,Apple Inc.,184.92,-1.09,-0.59%,101.256M,2.909T
+4,RIVN,"Rivian Automotive, Inc.",14.88,-0.36,-2.36%,92.23M,13.977B
+5,PLTR,Palantir Technologies Inc.,16.30,-0.30,-1.81%,90.696M,34.531B
+6,AMZN,"Amazon.com, Inc.",125.49,-1.62,-1.27%,84.247M,1.288T
+7,AMD,"Advanced Micro Devices, Inc.",120.08,-4.16,-3.35%,82.007M,193.372B
+8,NIO,NIO Inc.,9.40,-0.39,-3.98%,81.4M,16.785B
+9,DISH,DISH Network Corporation,6.47,+0.23,+3.69%,79.289M,3.446B
+10,F,Ford Motor Company,14.42,-0.03,-0.21%,75.398M,57.691B
+11,NVDA,NVIDIA Corporation,426.92,+0.39,+0.09%,65.571M,1.054T
+12,T,AT&T Inc.,16.06,+0.03,+0.19%,64.149M,114.813B
+13,PFE,Pfizer Inc.,40.06,+0.31,+0.78%,60.339M,226.151B
+14,ZI,ZoomInfo Technologies Inc.,26.82,-1.58,-5.56%,58.349M,11.338B
+15,SIRI,Sirius XM Holdings Inc.,3.9400,+0.1100,+2.87%,57.974M,15.241B
+16,GOOG,Alphabet Inc.,124.06,-1.73,-1.38%,56.699M,1.571T
+17,PANW,"Palo Alto Networks, Inc.",246.53,+2.73,+1.12%,54.823M,75.402B
+18,GPK,Graphic Packaging Holding Company,26.01,-0.16,-0.61%,53.235M,7.989B
+19,BAC,Bank of America Corporation,29.19,-0.18,-0.61%,53.05M,232.619B
+20,CCL,Carnival Corporation & plc,15.80,-0.32,-1.99%,51.112M,20.585B
+21,DBX,"Dropbox, Inc.",25.97,+0.14,+0.54%,47.223M,9.081B
+22,MSFT,Microsoft Corporation,346.62,-1.48,-0.43%,46.552M,2.577T
+23,WBD,"Warner Bros. Discovery, Inc.",12.80,-0.33,-2.51%,46.121M,31.182B
+24,GOOGL,Alphabet Inc.,123.53,-1.56,-1.25%,45.536M,1.572T
